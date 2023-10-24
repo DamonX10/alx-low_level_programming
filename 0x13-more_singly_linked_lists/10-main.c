@@ -2,9 +2,8 @@
 #include <string.h>
 #include <stdio.h>
 #include "lists.h"
-
 /**
- * main - check the code
+ * main - check the Full code
  *
  * Return: Always 0.
  */
