@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <stdarg.h>
 /**
- * print_numbers - Prints numbers, followed by a new line.
- * @separator: The string to be printed between numbers.
- * @n: The number of integers passed to the function.
- * @...: A variable number of numbers to be printed.
+ * print_numbers - Prints numbers, followedBy a newLine.
+ * @separator: The stringTo be printed between numbers.
+ * @n: The number of integers passedTo the function.
+ * @...: A variable numberOf numbersTo be printed.
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {

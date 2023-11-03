@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - prints the name of the program
- * @argc: number of arguments
- * @argv: array of arguments
+ * main - prints name of program
+ * @argv: arrayOf arguments
+ * @argc: numberOf arguments
  *
  * Return: Always 0 (Success)
  */
